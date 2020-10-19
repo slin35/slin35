@@ -1,4 +1,4 @@
-### 我是一直大笨猪！世界第一笨。 👋
+### Hola 👋
 
 <!--
 **slin35/slin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
